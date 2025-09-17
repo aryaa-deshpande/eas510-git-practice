@@ -1,0 +1,27 @@
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# Logs & caches
+*.log
+.cache/
+
+# ML artifacts
+models/
+checkpoints/
+runs/
+wandb/
+mlruns/
+
+# Data (keep folder with a placeholder file)
+data/
